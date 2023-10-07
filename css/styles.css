@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(119, 201, 201);
+}
+fieldset{
+    background-color: aliceblue;
+    margin: 6% 20% 0% 20%;
+    text-align: center;
+}
+.cl{
+    height: 30px;
+}
+button{
+    background-color: rgb(24, 153, 153);
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+    width: 80px; 
+
+
+}*
+.child{
+    background-color: aqua;
+    text-align: center;
+
+}
+.first {
+    align-items: center;
+    text-align: center;
+    display: block; 
+    font-size: 18px;
+    padding: 10px; 
+    border: none; 
+    color: rgb(255, 255, 255);
+    background-color: rgb(6, 250, 51);
+    cursor: pointer; 
+}
+.second{
+
+    color: rgb(254, 254, 254);
+    background-color: rgb(130, 134, 53);
+    text-align: center;
+    display: block; 
+    font-size: 18px;
+    margin: 10px 0;
+    padding: 10px;
+    border: none;
+    cursor: pointer; 
+
+}
+.third{
+
+    color: rgb(255, 255, 255);
+    text-align: center;
+    display: block; 
+    font-size: 18px;
+    margin: 10px 0; 
+    padding: 10px; 
+    cursor: pointer; 
+    background-color: rgb(203, 13, 241);
+
+}
+.wishlist{
+    text-align: center;
+    padding: 20px;
+}
+.only {
+    text-align: center;
+}
+
+.only button {
+    width: 200px; 
+    height: 50px; 
+    display: block;
+    margin: 10px auto;
+}
